@@ -13,6 +13,8 @@ I am recent MEng graduate from Imperial College London, entering the music techn
 
 ## Experience
 
+[Link to my CV (more technical depth)](https://github.com/AEMLL/AEMLL.github.io/blob/main/AndresMartinez_MusicTech_CV.pdf)
+
 **Electronic and Information Engineering MEng** \
 Imperial College London \
 Oct 2021 - June 2025
