@@ -77,7 +77,7 @@ June 2025 - Now
 * Learning audio programming principles from resources such as:
     * The Audio Programming Book, by Richard Boulanger and Victor Lazzarini
     * C++ Real-Time Audio Programming Course, by Andrew McPherson
-* Developing C++ Real-Time Software synth for Raspberry Pi, with MIDI keyboard input and line output.
+* Developing [C++ Real-Time Software synth for Raspberry Pi](https://github.com/AEMLL/fulgor), with MIDI keyboard input and line output.
 
 ## Music & DJ
 
