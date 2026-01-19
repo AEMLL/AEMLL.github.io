@@ -79,6 +79,13 @@ June 2025 - Now
     * C++ Real-Time Audio Programming Course, by Andrew McPherson
 * Developing [C++ Real-Time Software synth for Raspberry Pi](https://github.com/AEMLL/fulgor), with MIDI keyboard input and line output.
 
+**FPGA/DSP Engineer** \
+DiGiCo
+05/01/2026 - Now
+* R&D for audio mixing consoles used in live performance.
+* Designing audio FX and DSP algorithms for digital hardware.
+* Implementing designs in VHDL and synthesizing for FPGA-based audio engines.
+
 ## Music & DJ
 
 **Favourite DJ sets I've played**:
