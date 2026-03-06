@@ -21,7 +21,7 @@ Oct 2021 - June 2025
 * Analog and Digital Circuit foundations
 * DSP and physical modelling synthesis project
 * Hardware acceleration on FPGA (C and SystemVerilog)
-* Computer Vision and Machine Learning (PyTorch NumPy)
+* Thesis in Computer Vision and Machine Learning (PyTorch NumPy)
 
 **Software Engineering Internship** \
 Roku \
@@ -80,11 +80,11 @@ June 2025 - Now
 * Developing [C++ Real-Time Software synth for Raspberry Pi](https://github.com/AEMLL/fulgor), with MIDI keyboard input and line output.
 
 **FPGA/DSP Engineer** \
-DiGiCo
+DiGiCo \
 05/01/2026 - Now
 * R&D for audio mixing consoles used in live performance.
-* Designing audio FX and DSP algorithms for digital hardware.
-* Implementing designs in VHDL and synthesizing for FPGA-based audio engines.
+* Designing audio FX and DSP algorithms for FPGA-based audio engines (VHDL).
+* Building digital audio measurement tooling in both JUCE and Python.
 
 ## Music & DJ
 
