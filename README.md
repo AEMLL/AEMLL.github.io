@@ -5,7 +5,7 @@ Click the links below to navigate within this page:
 * [About](#about)
 * [Experience](#experience)
 * [Currently](#currently)
-* [Music & DJ](#music--dj)
+* [Music Production & DJ](#music-production--dj)
 
 
 ## About
@@ -78,6 +78,7 @@ June 2025 - Now
     * The Audio Programming Book, by Richard Boulanger and Victor Lazzarini
     * C++ Real-Time Audio Programming Course, by Andrew McPherson
 * Developing [C++ Real-Time Software synth for Raspberry Pi](https://github.com/AEMLL/fulgor), with MIDI keyboard input and line output.
+* Building a velocity-sensitive MIDI beatpad.
 
 **FPGA/DSP Engineer** \
 DiGiCo \
@@ -86,7 +87,12 @@ DiGiCo \
 * Designing audio FX and DSP algorithms for FPGA-based audio engines (VHDL).
 * Building digital audio measurement tooling in both JUCE and Python.
 
-## Music & DJ
+## Music Production & DJ
+
+I am very passionate about music production and have been experimenting with music-making tools like FL Studio, Ableton and Strudel. I also enjoy developing ideas that come to my head on my commutes to work with apps such as Ableton Note. Lately, I have been organising an DJing parties with other IC Radio alumni as part of Beit.
+
+**Profiles**:
+* [SoundCloud](https://on.soundcloud.com/EkgWUkUTs7HNj3o4M7)
 
 **Favourite DJ sets I've played**:
 * [Modulate 15/11/24 with Antoine](https://on.soundcloud.com/dRmwbX7JpP0CRRLgca)
